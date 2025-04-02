@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Believe</string>
+    <string name="believe_activity_started">Believe Activity started</string>
+    <string name="button_addBelieve">Add Believe</string>
+    <string name="hint_believeTitle">Believe Title</string>
+    <string name="hint_believeDescription">Description </string>
+    <string name="menu_addBelieve">Add</string>
+    <string name="menu_cancelBelieve">Cancel</string>
+    <string name="please_enter_a_title">Please Enter a title</string>
+    <string name="save_believe"> Save Believe </string>
+    <string name="button_addImage">Add Image</string>
+    <string name="select_believe_image">Select believe image</string>
+    <string name="change_believe_image">Change believe image</string>
+    <string name="button_location">Set Location</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>
